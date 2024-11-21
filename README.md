@@ -15,5 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_BBANTO
-![image](https://github.com/user-attachments/assets/39709127-65a0-4731-8a61-3b18fc929700)
 ![image](https://github.com/user-attachments/assets/5659d0a4-4fec-4ea5-bd38-c89bea3654ed)
